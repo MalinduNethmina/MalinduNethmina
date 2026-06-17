@@ -29,33 +29,11 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
+🎓 Software Engineering Student • 💻 Full Stack Developer • 🎨 UI/UX Designer • 📱 Mobile App Developer
 
-🎓 Software Engineering Student
+⚛️ React • MERN • ☁️ DevOps • Docker • 🛠 PHP • Java • JavaScript • 🌐 WordPress • MySQL
 
-💻 Full Stack Developer
-
-🎨 UI/UX Designer
-
-📱 Mobile App Developer
-
-</td>
-
-<td width="50%">
-
-⚛️ React • MERN
-
-☁️ DevOps • Docker
-
-🛠 PHP • Java • JavaScript
-
-🌐 WordPress • MySQL
-
-</td>
-</tr>
-</table>
+📍 Colombo, Sri Lanka 🇱🇰
 
 ## 🛠 Tech Stack
 

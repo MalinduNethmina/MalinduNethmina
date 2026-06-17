@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MalinduNethmina/MalinduNethmina/main/banner.png" width="100%" />
+</p>
 # 🚀 Malindu Nethmina
 
 <h3 align="center">

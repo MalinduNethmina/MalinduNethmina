@@ -1,40 +1,40 @@
-<h1 align="center">Hi 👋, I'm Malindu Nethmina</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Malindu+Nethmina;Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;React+%7C+MERN+%7C+DevOps+Learner" />
+</p>
+
+<h1 align="center">🚀 Malindu Nethmina</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 🎨 UI/UX Designer | 📱 Mobile App Developer
+Full Stack Developer • UI/UX Designer • Mobile App Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;React+Developer;MERN+Stack+Learner;DevOps+Enthusiast;WordPress+Developer;Automation+Systems+Builder" />
-</p>
-
-<p align="center">
 <a href="https://malindunethmina-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/malindu-nethmina/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:malindunethmina113@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
 🎓 Software Engineering Student
 
-💻 Passionate Full Stack Developer focused on building scalable web applications and digital solutions.
+💻 Passionate Full Stack Developer focused on building scalable web applications and digital products.
 
-🎨 UI/UX Designer with a strong focus on creating clean, modern, and user-friendly experiences.
+🎨 UI/UX Designer creating modern and user-friendly interfaces.
 
-📱 Mobile App Developer interested in cross-platform and modern application development.
+📱 Mobile App Developer interested in cross-platform application development.
 
-🌱 Currently Learning:
+🚀 Currently Learning:
 
 * React.js
 * MERN Stack
@@ -49,30 +49,43 @@
 * WordPress
 * MySQL
 
-🚀 Areas of Interest:
-
-* Full Stack Development
-* Mobile Application Development
-* UI/UX Design
-* DevOps & Cloud
-* Automation Systems
-* Software Architecture
-
-📍 Sri Lanka 🇱🇰
-
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,mysql,wordpress,git,github,vscode,figma,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,mysql,wordpress,git,github,vscode,figma,firebase"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+### 🏠 RentHouse Sri Lanka
+
+Property rental management platform with modern user experience.
+
+### 🏨 Hotel Management System
+
+Complete hotel reservation and management solution.
+
+### 👨‍💼 Employee CRUD System
+
+Advanced employee management platform.
+
+### 🩸 Blood Donor Management System
+
+Web application connecting donors and recipients.
+
+### 📱 TaskSnap Mobile App
+
+Mobile productivity and task management application.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -84,87 +97,58 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=MalinduNethmina&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalinduNethmina&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=MalinduNethmina&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏠 RentHouse Sri Lanka
-
-Property Rental Management Platform built with modern web technologies.
-
-### 🏨 Hotel Management System
-
-Complete hotel reservation and management solution.
-
-### 👨‍💼 Employee CRUD System
-
-Employee management system with advanced CRUD operations.
-
-### 🩸 Blood Donor Management System
-
-Web platform connecting blood donors and recipients.
-
-### 📱 TaskSnap Mobile App
-
-Modern mobile productivity application.
-
----
-
-# 🌐 Portfolio
+## 🌐 Portfolio
 
 🔗 https://malindunethmina-portfolio.vercel.app
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-<p align="center">
+📧 Email
+[malindunethmina113@gmail.com](mailto:malindunethmina113@gmail.com)
 
-<a href="https://www.linkedin.com/in/malindu-nethmina/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+💼 LinkedIn
+https://www.linkedin.com/in/malindu-nethmina/
 
-<a href="mailto:malindunethmina113@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
-</a>
-
-<a href="https://malindunethmina-portfolio.vercel.app">
-<img src="https://img.icons8.com/color/48/domain.png" width="48"/>
-</a>
-
-</p>
+🌐 Portfolio
+https://malindunethmina-portfolio.vercel.app
 
 ---
 
-# 💡 Developer Quote
+## 💡 Developer Philosophy
 
-<p align="center">
-
-"Building digital experiences that solve real-world problems through technology, design, and innovation."
-
-</p>
+> Building digital experiences that solve real-world problems through technology, design, and innovation.
 
 ---
 
@@ -175,5 +159,5 @@ Modern mobile productivity application.
 </p>
 
 <p align="center">
-⭐ If you like my work, consider following my GitHub profile.
+⭐ Thanks for visiting my profile!
 </p>

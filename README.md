@@ -75,13 +75,6 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MalinduNethmina&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 ## 🎯 2026 Goals
 

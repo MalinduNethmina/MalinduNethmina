@@ -1,17 +1,16 @@
-````md
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Malindu+Nethmina;Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;React+Developer;MERN+Stack+Learner;DevOps+Enthusiast" />
-</p>
-
-<h1 align="center">🚀 Malindu Nethmina</h1>
+# 🚀 Malindu Nethmina
 
 <h3 align="center">
 Full Stack Developer • UI/UX Designer • Mobile App Developer
 </h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Malindu+Nethmina;Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;React+Developer;MERN+Stack+Learner;DevOps+Enthusiast;WordPress+Developer" />
+</p>
+
+<p align="center">
 <a href="https://malindunethmina-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Website-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/malindu-nethmina/">
@@ -29,26 +28,28 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 
 🎓 Software Engineering Student
 
-💻 Passionate Full Stack Developer focused on building scalable web applications and digital products.
+💻 Passionate Full Stack Developer
 
-🎨 UI/UX Designer creating modern and user-friendly interfaces.
+🎨 UI/UX Designer
 
-📱 Mobile App Developer interested in cross-platform application development.
+📱 Mobile App Developer
 
 🚀 Currently Learning:
 
-- React.js
-- MERN Stack
-- DevOps
-- Cloud Technologies
+* React.js
+* MERN Stack
+* DevOps
+* Docker
+* Kubernetes
+* Cloud Technologies
 
 ⚡ Working With:
 
-- PHP
-- Java
-- JavaScript
-- WordPress
-- MySQL
+* PHP
+* Java
+* JavaScript
+* WordPress
+* MySQL
 
 📍 Sri Lanka 🇱🇰
 
@@ -57,7 +58,7 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,mysql,wordpress,git,github,vscode,figma,firebase,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,mysql,wordpress,git,github,vscode,figma,firebase,docker,kubernetes,aws" />
 </p>
 
 ---
@@ -65,19 +66,24 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 ## 🚀 Featured Projects
 
 ### 🏠 RentHouse Sri Lanka
-Property rental management platform with modern user experience.
+
+Modern property rental management platform.
 
 ### 🏨 Hotel Management System
-Complete hotel reservation and management solution.
+
+Hotel reservation and management solution.
 
 ### 👨‍💼 Employee CRUD System
-Advanced employee management platform.
+
+Employee management system with advanced CRUD functionality.
 
 ### 🩸 Blood Donor Management System
-Web application connecting donors and recipients.
+
+Connecting blood donors and recipients.
 
 ### 📱 TaskSnap Mobile App
-Mobile productivity and task management application.
+
+Productivity and task management application.
 
 ---
 
@@ -117,12 +123,12 @@ Mobile productivity and task management application.
 
 ## 🎯 2026 Goals
 
-- ✅ Build Production-Ready MERN Applications
-- ✅ Master React Ecosystem
-- ✅ Learn Docker & Kubernetes
-- ✅ Improve DevOps Skills
-- ✅ Contribute to Open Source
-- ✅ Build Scalable SaaS Projects
+* ✅ Build Production-Ready MERN Applications
+* ✅ Master React Ecosystem
+* ✅ Learn Docker & Kubernetes
+* ✅ Improve DevOps Skills
+* ✅ Contribute to Open Source
+* ✅ Build Scalable SaaS Projects
 
 ---
 
@@ -132,11 +138,11 @@ Mobile productivity and task management application.
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker,kubernetes,aws"/>
 </p>
 
-- React Advanced Concepts
-- MERN Stack Development
-- DevOps & CI/CD Pipelines
-- Cloud Computing
-- System Design
+* React Advanced Concepts
+* MERN Stack Development
+* DevOps & CI/CD Pipelines
+* Cloud Computing
+* System Design
 
 ---
 
@@ -148,7 +154,7 @@ Full Stack Development   ██████████░░░░░░ 65%
 UI/UX Design             ███████████░░░░░ 70%
 Mobile Apps              █████████░░░░░░░ 55%
 DevOps & Cloud           ██████░░░░░░░░░░ 40%
-````
+```
 
 ---
 
@@ -161,13 +167,13 @@ DevOps & Cloud           ██████░░░░░░░░░░ 40%
 ## 🤝 Connect With Me
 
 📧 Email
-**[malindunethmina113@gmail.com](mailto:malindunethmina113@gmail.com)**
+[malindunethmina113@gmail.com](mailto:malindunethmina113@gmail.com)
 
 💼 LinkedIn
-**[https://www.linkedin.com/in/malindu-nethmina/](https://www.linkedin.com/in/malindu-nethmina/)**
+[https://www.linkedin.com/in/malindu-nethmina/](https://www.linkedin.com/in/malindu-nethmina/)
 
 🌐 Portfolio
-**[https://malindunethmina-portfolio.vercel.app](https://malindunethmina-portfolio.vercel.app)**
+[https://malindunethmina-portfolio.vercel.app](https://malindunethmina-portfolio.vercel.app)
 
 ---
 
@@ -184,6 +190,5 @@ DevOps & Cloud           ██████░░░░░░░░░░ 40%
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
-```
 
-මේක direct copy කරලා `README.md` එකේ paste කරලා **Commit changes** කරන්න. 🚀🔥
+**වැදගත්:** `README.md` එකට paste කරනකොට `# 🚀 Malindu Nethmina` වලින් start කරලා, `⭐ Thanks for visiting my profile!` වලින් end වෙන මේ content එක විතරක් paste කරන්න. GitHub එකේ render වෙනවා. 🔥🚀

@@ -1,5 +1,6 @@
+````md
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Malindu+Nethmina;Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;React+%7C+MERN+%7C+DevOps+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Malindu+Nethmina;Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;React+Developer;MERN+Stack+Learner;DevOps+Enthusiast" />
 </p>
 
 <h1 align="center">🚀 Malindu Nethmina</h1>
@@ -10,7 +11,7 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 
 <p align="center">
 <a href="https://malindunethmina-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Website-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/malindu-nethmina/">
@@ -36,27 +37,27 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 
 🚀 Currently Learning:
 
-* React.js
-* MERN Stack
-* DevOps
-* Cloud Technologies
+- React.js
+- MERN Stack
+- DevOps
+- Cloud Technologies
 
 ⚡ Working With:
 
-* PHP
-* Java
-* JavaScript
-* WordPress
-* MySQL
+- PHP
+- Java
+- JavaScript
+- WordPress
+- MySQL
+
+📍 Sri Lanka 🇱🇰
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,mysql,wordpress,git,github,vscode,figma,firebase"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,mysql,wordpress,git,github,vscode,figma,firebase,docker" />
 </p>
 
 ---
@@ -64,23 +65,18 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 ## 🚀 Featured Projects
 
 ### 🏠 RentHouse Sri Lanka
-
 Property rental management platform with modern user experience.
 
 ### 🏨 Hotel Management System
-
 Complete hotel reservation and management solution.
 
 ### 👨‍💼 Employee CRUD System
-
 Advanced employee management platform.
 
 ### 🩸 Blood Donor Management System
-
 Web application connecting donors and recipients.
 
 ### 📱 TaskSnap Mobile App
-
 Mobile productivity and task management application.
 
 ---
@@ -88,11 +84,9 @@ Mobile productivity and task management application.
 ## 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MalinduNethmina&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinduNethmina&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -100,9 +94,7 @@ Mobile productivity and task management application.
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=MalinduNethmina&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -110,9 +102,7 @@ Mobile productivity and task management application.
 ## 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalinduNethmina&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -120,29 +110,64 @@ Mobile productivity and task management application.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=MalinduNethmina&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build Production-Ready MERN Applications
+- ✅ Master React Ecosystem
+- ✅ Learn Docker & Kubernetes
+- ✅ Improve DevOps Skills
+- ✅ Contribute to Open Source
+- ✅ Build Scalable SaaS Projects
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker,kubernetes,aws"/>
+</p>
+
+- React Advanced Concepts
+- MERN Stack Development
+- DevOps & CI/CD Pipelines
+- Cloud Computing
+- System Design
+
+---
+
+## 🏗 Current Focus
+
+```text
+React Development        ████████████░░░░ 75%
+Full Stack Development   ██████████░░░░░░ 65%
+UI/UX Design             ███████████░░░░░ 70%
+Mobile Apps              █████████░░░░░░░ 55%
+DevOps & Cloud           ██████░░░░░░░░░░ 40%
+````
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 https://malindunethmina-portfolio.vercel.app
+🔗 [https://malindunethmina-portfolio.vercel.app](https://malindunethmina-portfolio.vercel.app)
 
 ---
 
 ## 🤝 Connect With Me
 
 📧 Email
-[malindunethmina113@gmail.com](mailto:malindunethmina113@gmail.com)
+**[malindunethmina113@gmail.com](mailto:malindunethmina113@gmail.com)**
 
 💼 LinkedIn
-https://www.linkedin.com/in/malindu-nethmina/
+**[https://www.linkedin.com/in/malindu-nethmina/](https://www.linkedin.com/in/malindu-nethmina/)**
 
 🌐 Portfolio
-https://malindunethmina-portfolio.vercel.app
+**[https://malindunethmina-portfolio.vercel.app](https://malindunethmina-portfolio.vercel.app)**
 
 ---
 
@@ -153,11 +178,12 @@ https://malindunethmina-portfolio.vercel.app
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=MalinduNethmina&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
+```
+
+මේක direct copy කරලා `README.md` එකේ paste කරලා **Commit changes** කරන්න. 🚀🔥

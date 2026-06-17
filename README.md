@@ -41,31 +41,13 @@ Full Stack Developer • UI/UX Designer • Mobile App Developer
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,mysql,wordpress,git,github,vscode,figma,firebase,docker,kubernetes,aws" />
 </p>
 
----
-
 ## 🚀 Featured Projects
 
-### 🏠 RentHouse Sri Lanka
-
-Modern property rental management platform.
-
-### 🏨 Hotel Management System
-
-Hotel reservation and management solution.
-
-### 👨‍💼 Employee CRUD System
-
-Employee management system with advanced CRUD functionality.
-
-### 🩸 Blood Donor Management System
-
-Connecting blood donors and recipients.
-
-### 📱 TaskSnap Mobile App
-
-Productivity and task management application.
-
----
+- 🏠 RentHouse Sri Lanka — Property Rental Management Platform
+- 🏨 Hotel Management System — Hotel Reservation Solution
+- 👨‍💼 Employee CRUD System — Employee Management Platform
+- 🩸 Blood Donor System — Donor & Recipient Platform
+- 📱 TaskSnap Mobile App — Productivity Mobile Application
 
 ## 📊 GitHub Statistics
 

@@ -191,4 +191,3 @@ DevOps & Cloud           ██████░░░░░░░░░░ 40%
 ⭐ Thanks for visiting my profile!
 </p>
 
-**වැදගත්:** `README.md` එකට paste කරනකොට `# 🚀 Malindu Nethmina` වලින් start කරලා, `⭐ Thanks for visiting my profile!` වලින් end වෙන මේ content එක විතරක් paste කරන්න. GitHub එකේ render වෙනවා. 🔥🚀
